@@ -12,7 +12,7 @@ Value-based investment is like finding special toys that are on sale at the stor
 - [Warren Buffett and the Analysis of Financial Statements
 ](https://www.youtube.com/watch?v=knaQgfxIi18&t=2419s) - R V C
 - [Introduction to Financial Ratio Analysis](https://www.udemy.com/course/introduction-to-financial-ratio-analysis)
-- 
+- [Dividendology](https://www.youtube.com/@Dividendology)
 
 #### Books
 - [The Little Book of Value Investing](https://www.amazon.com/Little-Book-Value-Investing/dp/0470055898/)
@@ -37,7 +37,10 @@ Value-based investment is like finding special toys that are on sale at the stor
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Simply Wallst](https://simplywall.st/dashboard)
 - [stock Analysis on Net](https://www.stock-analysis-on.net/)
+- [Seeking Alpha](https://seekingalpha.com/)
 - 
+#### Commercials
+- https://www.patreon.com/dividendology/posts
 
 #### Resources
 - [astro30/valinvest  - github](https://github.com/astro30/valinvest)
