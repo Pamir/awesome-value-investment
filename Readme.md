@@ -31,14 +31,17 @@ Value-based investment is like finding special toys that are on sale at the stor
 - [The Use of Financial Statements to Predict the Stock Market Effects of Systemic Crises](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1088&context=cgu_etd)
 - [Value Investment Using Stock Index](https://link.springer.com/chapter/10.1007/978-3-030-00677-8_9)
 - [Modelling Stock Price Behaviour by Financial Ratios](https://link.springer.com/chapter/10.1007/978-3-642-76761-6_9)
-- 
+- [Aswath Damadoran Papers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/papers.html)
 
 #### Financial Websites
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Simply Wallst](https://simplywall.st/dashboard)
 - [stock Analysis on Net](https://www.stock-analysis-on.net/)
 - [Seeking Alpha](https://seekingalpha.com/)
-- 
+- [Stock Analysis](https://stockanalysis.com/)
+- [Macro Trends](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/price-sales)
+- [Guru Focus](https://www.gurufocus.com/)
+- [Stock Analysis On](https://www.stock-analysis-on.net/NASDAQ/Company/Microsoft-Corp/DCF/DDM)
 #### Commercials
 - https://www.patreon.com/dividendology/posts
 
