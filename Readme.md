@@ -42,6 +42,7 @@ Value-based investment is like finding special toys that are on sale at the stor
 - [Macro Trends](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/price-sales)
 - [Guru Focus](https://www.gurufocus.com/)
 - [Stock Analysis On](https://www.stock-analysis-on.net/NASDAQ/Company/Microsoft-Corp/DCF/DDM)
+- [Trading View](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/electronic-technology/)
 #### Commercials
 - https://www.patreon.com/dividendology/posts
 
